@@ -1,7 +1,9 @@
-blankStack
+Project Zoo
 ==========
 
-Blank Website project with all frameworks imported including:
+A dashboard for all on going projects that shows the status based on how often work has been done on them.
+
+frameworks:
 *LESS
 *jQuery
 *Bootstrap
